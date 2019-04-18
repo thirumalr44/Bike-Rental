@@ -1,0 +1,27 @@
+body{
+	background-color: lightgreen;
+	}
+h1{text-align: center;
+    font-size: 80px;
+	}
+img{
+	  display: block;
+	  margin-left:auto;
+	  margin-right:auto;
+	  }
+input{
+	width : 250px;
+	height : 25px
+}
+#location{
+	text-align: center;
+	font-size: 50px;
+}
+#from{
+	margin-left: 40px;
+	font-size: 50px;
+}
+#to{
+	margin-right: 40px;
+	font-size: 50px;
+}
